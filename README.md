@@ -1,3 +1,2 @@
 # Java-projects
-
-Various projects made in java 
+Data structures, Event Listeners, Threads and much more
